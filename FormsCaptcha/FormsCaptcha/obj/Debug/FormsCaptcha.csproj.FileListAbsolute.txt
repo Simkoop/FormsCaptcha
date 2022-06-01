@@ -1,0 +1,8 @@
+C:\Users\Sim\source\repos\FormsCaptcha\FormsCaptcha\bin\Debug\FormsCaptcha.dll
+C:\Users\Sim\source\repos\FormsCaptcha\FormsCaptcha\bin\Debug\FormsCaptcha.pdb
+C:\Users\Sim\source\repos\FormsCaptcha\FormsCaptcha\obj\Debug\FormsCaptcha.csproj.AssemblyReference.cache
+C:\Users\Sim\source\repos\FormsCaptcha\FormsCaptcha\obj\Debug\FormsCaptcha.Captcha.resources
+C:\Users\Sim\source\repos\FormsCaptcha\FormsCaptcha\obj\Debug\FormsCaptcha.csproj.GenerateResource.cache
+C:\Users\Sim\source\repos\FormsCaptcha\FormsCaptcha\obj\Debug\FormsCaptcha.csproj.CoreCompileInputs.cache
+C:\Users\Sim\source\repos\FormsCaptcha\FormsCaptcha\obj\Debug\FormsCaptcha.dll
+C:\Users\Sim\source\repos\FormsCaptcha\FormsCaptcha\obj\Debug\FormsCaptcha.pdb

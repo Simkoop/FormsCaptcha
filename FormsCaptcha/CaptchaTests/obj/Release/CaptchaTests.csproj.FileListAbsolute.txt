@@ -1,0 +1,14 @@
+C:\Users\Sim\source\repos\FormsCaptcha\CaptchaTests\bin\Release\CaptchaTests.exe.config
+C:\Users\Sim\source\repos\FormsCaptcha\CaptchaTests\bin\Release\CaptchaTests.exe
+C:\Users\Sim\source\repos\FormsCaptcha\CaptchaTests\bin\Release\CaptchaTests.pdb
+C:\Users\Sim\source\repos\FormsCaptcha\CaptchaTests\bin\Release\FormsCaptcha.dll
+C:\Users\Sim\source\repos\FormsCaptcha\CaptchaTests\bin\Release\FormsCaptcha.pdb
+C:\Users\Sim\source\repos\FormsCaptcha\CaptchaTests\obj\Release\CaptchaTests.csproj.AssemblyReference.cache
+C:\Users\Sim\source\repos\FormsCaptcha\CaptchaTests\obj\Release\CaptchaTests.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sim\source\repos\FormsCaptcha\CaptchaTests\obj\Release\CaptchaTests.Form1.resources
+C:\Users\Sim\source\repos\FormsCaptcha\CaptchaTests\obj\Release\CaptchaTests.Properties.Resources.resources
+C:\Users\Sim\source\repos\FormsCaptcha\CaptchaTests\obj\Release\CaptchaTests.csproj.GenerateResource.cache
+C:\Users\Sim\source\repos\FormsCaptcha\CaptchaTests\obj\Release\CaptchaTests.csproj.CoreCompileInputs.cache
+C:\Users\Sim\source\repos\FormsCaptcha\CaptchaTests\obj\Release\CaptchaTests.csproj.CopyComplete
+C:\Users\Sim\source\repos\FormsCaptcha\CaptchaTests\obj\Release\CaptchaTests.exe
+C:\Users\Sim\source\repos\FormsCaptcha\CaptchaTests\obj\Release\CaptchaTests.pdb
