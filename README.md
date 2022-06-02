@@ -4,5 +4,5 @@
 This is a simple captcha solution for winforms.
 
 
-<img src="images/Capture.PNG" alt="Screenshot" width="450" height="218">
+<img src="images/Capture.PNG" alt="Screenshot" width="700" height="218">
 
