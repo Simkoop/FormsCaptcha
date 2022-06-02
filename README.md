@@ -10,3 +10,6 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 This is a simple captcha solution for winforms.
+
+[![Product Name Screen Shot][screenshot]](https://raw.githubusercontent.com/Simkoop/FormsCaptcha/master/images/Capture.PNG)
+
